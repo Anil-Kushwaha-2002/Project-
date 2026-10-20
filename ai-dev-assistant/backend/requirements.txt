@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+streamlit
+ollama 
+sentence-transformers 
+faiss-cpu
